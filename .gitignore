@@ -24,7 +24,6 @@ dev-ssg-dynamic/
 
 # Ignore development or build-related files
 dist/
-build/
 coverage/
 tmp/
 temp/
